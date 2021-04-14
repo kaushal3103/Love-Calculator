@@ -16,10 +16,10 @@ cout << "LOVE CALCULATOR "<<endl;
 cout<<endl;
 
 cout<<"Enter your name : " <<endl;;
-cin >> name ;
+getline(cin,name);
 
 cout << "Enter your partner name : "<<endl;
-cin >> pname ;
+getline(cin,pname);
 
 cout << endl;
 
