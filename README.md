@@ -8,6 +8,7 @@ LOVE CALCULATOR
 
 Enter your name : 
 Romeo
+
 Enter your partner name : 
 Juliet 
 
